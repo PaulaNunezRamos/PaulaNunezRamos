@@ -1,4 +1,4 @@
-# Hi, I'm @paulanr98 👋
+# Hi, I'm @PaulaNunezRamos 👋
 
 - 👀 I’m interested in **Programming** and **Web Development**.
 - 🌱 I’m currently learning:
